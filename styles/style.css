@@ -1,3 +1,4 @@
+@import './normalize.css';
 body{
     background-color: rgba(238, 160, 160, 0.844);
     display: flex;
